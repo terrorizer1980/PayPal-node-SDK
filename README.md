@@ -1,3 +1,7 @@
+## Deprecation Notice:
+This SDK is deprecated. You can continue to use it, but no new features or support requests will be accepted.
+For alternatives, please visit [the current SDK homepage on the PayPal Developer Portal](https://developer.paypal.com/docs/api/rest-sdks/)
+
 # PayPal REST SDK
 
 Continuous integration status:
